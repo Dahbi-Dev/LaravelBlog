@@ -21,7 +21,7 @@
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
     {{-- @import ('~bootstrap/scss/bootstrap'); --}}
-    @vite('resources/css/app.css')
+    {{-- @vite('resources/css/app.css') --}}
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
